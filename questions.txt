@@ -1,8 +1,0 @@
-	https://www.geeksforgeeks.org/find-last-digit-given-series/
-	https://www.geeksforgeeks.org/c-program-replace-word-text-another-given-word/
-	https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6
-	https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc
-	https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003381cb
-	https://www.codechef.com/problems/HS08TEST
-	https://static.googleusercontent.com/media/services.google.com/en//blog_resources/Google_CodeJam_Practice.pdf
-	https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/000000000008830b
